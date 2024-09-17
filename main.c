@@ -1,3 +1,5 @@
+// Codificar un algoritmo para indicar si un enunciado es palíndromo
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
